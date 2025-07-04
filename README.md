@@ -1,7 +1,7 @@
 # ifood-case
 Códigos e desenvolvimento do case-ifood para a posição de Data Architect
 
-# 🗂️ NYC Yellow Taxi – Case de Dados com Databricks
+# 🗂️ Case de Dados com Databricks
 
 Este projeto apresenta um case de dados completo, estruturado com ingestão, pré-processamento, análise exploratória e geração de outputs com base em dados de corridas de táxi da cidade de Nova York. A infraestrutura utilizada inclui Databricks, PySpark e arquivos armazenados no Amazon S3.
 
